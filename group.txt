@@ -1,0 +1,3 @@
+group 200+123
+aircraft number 323
+never touch the excel files, they are not to be messed with at all costs. they may be read though. the excel files trump the manual, but the manual contains information helpful to filling in the excel file
