@@ -1,4 +1,0 @@
-group 200+123
-aircraft number 323
-never touch the excel files, they are not to be messed with at all costs. they may be read though. the excel files trump the manual, but the manual contains information helpful to filling in the excel file
-you may create new files that mimic the excel files, but to avoid problems, you may only write python code to spawn the files with the correct formatting as instructed

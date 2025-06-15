@@ -1,3 +1,0 @@
-# Ignore generated Excel clones and caches
-cloned_*.xlsx
-__pycache__/
